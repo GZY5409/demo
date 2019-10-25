@@ -56,9 +56,20 @@
 ._文本链接 {
   color:#0000FF;
 }
+.arrow {
+}
 ._形状 {
 }
 ._流程形状 {
+}
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 ._默认样式 {
 }
@@ -291,4 +302,8 @@
   text-align:left;
 }
 .button1 {
+}
+.flow_shape {
+}
+.snapshot {
 }
